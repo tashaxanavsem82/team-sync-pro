@@ -13,7 +13,7 @@ Thank you for considering contributing to Team Sync Pro! We appreciate the time 
 
 ## Things to Consider
 - Keep your changes focused on a single issue or feature.
-- **Add relevant tests:** If your changes include new features, functionalities, or bug fixes, please include corresponding tests to ensure they work correctly and maintain code quality.
+- **Add relevant tests:** If your changes include new features, functionalities, or bug fixes, please include corresponding tests to ensure they work correctly and maintain code quality. This is crucial for ensuring the stability of the project.
 - Follow the project's coding style and guidelines.
 
 ## License
